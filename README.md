@@ -18,10 +18,10 @@ For Demo checkout following link👇: <br />
 
 ### Images of The Crypto Screener Website:
 
-![Crypto](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Crypto.png)
-![Crypto-CryptoDetails](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Crypto-CryptoDetails.png)
-![Trending](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Trending.png)
-![Saved](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Saved.png)
+![Crypto](https://github.com/VaibhavDeshmukh12/CryptoBucks/blob/main/Website-Images/Crypto.png)
+![Crypto-CryptoDetails](https://github.com/VaibhavDeshmukh12/CryptoBucks/blob/main/Website-Images/Crypto-CryptoDetails.png)
+![Trending](https://github.com/VaibhavDeshmukh12/CryptoBucks/blob/main/Website-Images/Trending.png)
+![Saved](https://github.com/VaibhavDeshmukh12/CryptoBucks-A-crypto/blob/main/Website-Images/Saved.png)
 
 ### Resources Used in This Project
 
@@ -33,12 +33,11 @@ For Demo checkout following link👇: <br />
 
 - [Tailwind css](https://tailwindcss.com/) <br />
 - [recharts](https://recharts.org/en-US/) <br />
-- React JS <br />
-- Tailwind CSS for styling <br />
-- React Context API <br />
-- React Router <br />
-- Recharts to add interactive charts <br />
-- CoinGecko Cryptocurrency APIs <br />
+- [React JS](https://react.dev/) <br />
+- [Tailwind CSS for styling](https://tailwindcss.com/) <br />
+- [React Context API](https://legacy.reactjs.org/docs/context.html) <br />
+- [React Router](https://reactrouter.com/en/main) <br />
+- [Recharts to add interactive charts](https://recharts.org/en-US/guide) <br />
 
 
 
