@@ -14,7 +14,7 @@ CryptoBucks is a desktop web application built with React and Tailwind CSS that 
 
 
 For Demo checkout following link👇: <br />
-[Crypto Screener Application in ReactJS](https://crypto-bucks-rose.vercel.app/) <br />
+- [Crypto Screener Application in ReactJS](https://crypto-bucks-rose.vercel.app/) <br />
 
 ### Images of The Crypto Screener Website:
 
@@ -32,13 +32,12 @@ For Demo checkout following link👇: <br />
 
 ### Tools and Libraries used in this project:
 
-- [Tailwind css](https://tailwindcss.com/) <br />
-- [recharts](https://recharts.org/en-US/) <br />
-- [React JS](https://react.dev/) <br />
-- [Tailwind CSS for styling](https://tailwindcss.com/) <br />
-- [React Context API](https://legacy.reactjs.org/docs/context.html) <br />
-- [React Router](https://reactrouter.com/en/main) <br />
-- [Recharts to add interactive charts](https://recharts.org/en-US/guide) <br />
+- [Tailwind css](https://tailwindcss.com/) 
+- [React JS](https://react.dev/) 
+- [Tailwind CSS for styling](https://tailwindcss.com/) 
+- [React Context API](https://legacy.reactjs.org/docs/context.html) 
+- [React Router](https://reactrouter.com/en/main) 
+- [Recharts to add interactive charts](https://recharts.org/en-US/guide) 
 
 
 
