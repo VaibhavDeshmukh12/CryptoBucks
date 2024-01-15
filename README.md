@@ -18,10 +18,11 @@ For Demo checkout following link👇: <br />
 
 ### Images of The Crypto Screener Website:
 
-![Crypto](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Crypto.png)
-![Crypto-CryptoDetails](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Crypto-CryptoDetails.png)
-![Trending](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Trending.png)
-![Saved](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Saved.png)
+![Home](https://github.com/VaibhavDeshmukh12/CryptoBucks/assets/113431207/d3e64b77-5bdf-466d-b459-43c592ca6a56)
+![Trending](https://github.com/VaibhavDeshmukh12/CryptoBucks/assets/113431207/277f0ca5-6e7d-4a3d-829c-5a8f03d0d523)
+![Saved](https://github.com/VaibhavDeshmukh12/CryptoBucks/assets/113431207/3f50c465-b70b-4ba6-a9ab-1f4f54ecf787)
+![Details](https://github.com/VaibhavDeshmukh12/CryptoBucks/assets/113431207/6c04160b-aab6-4c29-9223-6497bdb52713)
+
 
 ### Resources Used in This Project
 
