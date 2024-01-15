@@ -14,7 +14,7 @@ CryptoBucks is a desktop web application built with React and Tailwind CSS that 
 
 
 For Demo checkout following link👇: <br />
-[Crypto Screener Application in ReactJS](https://devdreaming.com/videos/build-crypto-screener-app-with-react-tailwind-css) <br />
+[Crypto Screener Application in ReactJS](https://crypto-bucks-rose.vercel.app/) <br />
 
 ### Images of The Crypto Screener Website:
 
